@@ -21,7 +21,7 @@
                         </div>
                         <!-- END PROFILE DETAIL -->
                     </div>
-                    <!-- END LEFT COLUMN -->
+                    <!-- END LEFT COLUMNnn -->
                     <!-- RIGHT COLUMN -->
                     <div class="profile-right">
                         <!-- <p align="right"><a href="{{ route('siswa.create') }}" class="btn btn-primary">Tambah Nilai</a></p> -->
